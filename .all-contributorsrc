@@ -9,5 +9,21 @@
   "imageSize": 100,
   "commit": true,
   "contributorsPerLine": 7,
-  "contributorsSortAlphabetically": false
+  "contributorsSortAlphabetically": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "BWQ-L",
+      "name": "Buwei Qi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/160016595?v=4",
+      "profile": "https://github.com/BWQ-L",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas",
+        "maintenance"
+      ]
+    }
+  ]
 }
