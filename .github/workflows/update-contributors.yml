@@ -1,1 +1,36 @@
+name: ✨ Update Contributors Graph
 
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天凌晨 2 点 UTC 自动运行（可根据需求调整）
+  push:
+    branches:
+      - main  # 替换为你的默认分支
+  pull_request:
+    types: [closed]
+
+jobs:
+  update-contributors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: 🧾 Generate Contributors Graph
+        uses: akhilmhdh/contributors-readme-action@v2.3.10
+        with:
+          image_size: 96                     # 更细致的头像尺寸
+          columns_per_row: 7                # 每行显示 7 个头像
+          readme_path: 'README.md'          # 可改为其他路径
+          commit_message: 'docs: update contributors graph'
+          committer_username: 'github-actions[bot]'
+          committer_email: '41898282+github-actions[bot]@users.noreply.github.com'
+          silent: true                      # 没有变更时不创建提交
+          use_username: true                # 显示用户名（头像下方）
+
+      - name: 📤 Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || git commit -am "docs: update contributors graph" && git push
