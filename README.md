@@ -72,6 +72,7 @@ Thanks to all these wonderful people for their contributions 💖
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/BWQ-L"><img src="https://avatars.githubusercontent.com/u/160016595?v=4?s=100" width="100px;" alt="Buwei Qi"/><br /><sub><b>Buwei Qi</b></sub></a><br /><a href="https://github.com/BWQ-L/Notes-of-Optimization-Theory/commits?author=BWQ-L" title="Code">💻</a> <a href="https://github.com/BWQ-L/Notes-of-Optimization-Theory/commits?author=BWQ-L" title="Documentation">📖</a> <a href="#ideas-BWQ-L" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-BWQ-L" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/huyuhao1"><img src="https://avatars.githubusercontent.com/u/66007594?v=4?s=100" width="100px;" alt="huyuhao1"/><br /><sub><b>huyuhao1</b></sub></a><br /><a href="https://github.com/BWQ-L/Notes-of-Optimization-Theory/commits?author=huyuhao1" title="Documentation">📖</a> <a href="#maintenance-huyuhao1" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
 </table>
