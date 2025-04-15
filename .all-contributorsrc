@@ -9,21 +9,6 @@
   "imageSize": 100,
   "commit": true,
   "contributorsPerLine": 7,
-  "contributorsSortAlphabetically": false,
-  "contributors": [
-    {
-      "login": "BWQ-L",
-      "name": "BWQ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/68313098?v=4",
-      "profile": "https://github.com/BWQ-L",
-      "contributions": ["code", "doc", "ideas", "maintenance"]
-    },
-    {
-      "login": "huyuhao1",
-      "name": "huyuhao1",
-      "avatar_url": "https://avatars.githubusercontent.com/u/74739149?v=4",
-      "profile": "https://github.com/huyuhao1",
-      "contributions": ["code", "doc", "ideas"]
-    }
+  "contributorsSortAlphabetically": false
   ]
 }
