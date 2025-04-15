@@ -65,7 +65,13 @@ We sincerely thank all contributors. Your support is essential to building an op
 ## 7. 👥 Contributors
 Thanks to all these wonderful people for their contributions 💖
 
-<!-- contributors:start -->
-<!-- contributors:end -->
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 🙌 Want to see yourself here? Just submit a PR to contribute!
