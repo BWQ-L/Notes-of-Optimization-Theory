@@ -25,10 +25,6 @@ The project is jointly maintained by [BWQ](https://github.com/BWQ-L) and [huyuha
 ├── Applications/            # Practical tutorials and case studies
 ├── ContributorsNotes/       # Notes and contributions from external authors
 ├── docs/                    # Optional documentation, rendered by GitHub Pages or MkDocs
-├── .github/                 # Templates and community configurations
-├── .gitignore               # Git ignore rules
-├── mkdocs.yml               # MkDocs site configuration
-├── LICENSE
 └── README.md
 ```
 
